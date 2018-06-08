@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VENTURELAND</string>
+    <string name="help_name">Instructions</string>
+    <string name="help_details">Tilt your device to move your ship. Safely get your ship to the finish
+        to win. Make sure to avoid the storms, and do not let the sharks catch and eat you,
+        or get hit by the snakes they throw at you! </string>
+</resources>
